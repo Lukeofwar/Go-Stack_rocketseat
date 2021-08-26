@@ -2,9 +2,11 @@
   "name": "backend",
   "version": "1.0.0",
   "main": "src/index.js",
+  "repository": "https://github.com/Lukeofwar/Go-Stack_rocketseat.git",
+  "author": "Lukeofwar <matheuslucaskid@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon"
+     "dev": "nodemon"
   },
   "dependencies": {
     "express": "^4.17.1"
