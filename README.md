@@ -8,7 +8,7 @@ todo  conteúdo será do bootstrap go stack 11.
 Os pull request são bem vindos, só que lembrem-se de se sertificar se 
 realmente tem um problema.
 
-##Para que o go stack ??
+## Para que o go stack ??
 
 O bootstrap da rocketseat é uma boa maneira de aprender a fazer sites modernos 
 e com uma boa funcionalidade. Além de proporsionar um ótiomo ensino, eles aindam dão 
