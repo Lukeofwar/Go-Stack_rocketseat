@@ -14,5 +14,4 @@ O bootstrap da rocketseat é uma boa maneira de aprender a fazer sites modernos
 e com uma boa funcionalidade. Além de proporsionar um ótiomo ensino, eles aindam dão 
 dicas de como ser mais produtivos e falam de alguns recursos bem úteis.
 
-![](https://github.com/Lukeofwar/Go-Stack_rocketseat/blob/main/original-23e7aa2eb1892703792b943662428e54-1024x682.jpeg)
 
