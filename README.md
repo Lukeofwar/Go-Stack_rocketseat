@@ -1,9 +1,9 @@
-# Go-Stack_rocketseat
+# Go-Stack_rocketseat.
 
 Maratona intensiva para eu melhorar minhas habilidades 
 todo  conteúdo será do bootstrap go stack 11.
 
-### Pull request 
+### Pull request.
 
 Os pull request são bem vindos, só que lembrem-se de se sertificar se 
 realmente tem um problema.
