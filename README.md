@@ -16,5 +16,5 @@ dicas de como ser mais produtivos e falam de alguns recursos bem úteis.
 
 ### Ferramentas usadas.
 
-Nesse projeto usarei o vs code, insomnia, Hiper, node e o último e 
-não menos importante devdocs
+Nesse projeto usarei o vs code, insomnia, Hiper, node e 
+o último e não menos importante devdocs
