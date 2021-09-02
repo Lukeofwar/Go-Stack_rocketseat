@@ -33,13 +33,13 @@ tem uma boa interface e ainda para fazer uns testes com json.
 
 ### Node 
  <p align="center">
-  <img src="../_imagens/node.png">
+  <img src="_imagens/node.png">
 </p>
 O node eu vou usar para fazer o javascript rodar no meu pc .
 
 ### DevDocs
 <p align="center">
-  <img src="../_imagens/devdocs.png">
+  <img src="_imagens/devdocs.png">
 </p>
 Essa ferramenta é para quando eu quiser saber para que serve aquela linguagem
 ou como fazer aquele efeito na tela etc...
