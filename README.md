@@ -26,7 +26,7 @@ aplicações de códigos e tudo mais.
 
 ### Insomnia   
 <p align="center">
-  <img src="../_imagens/insomnia.png">
+  <img src="_imagens/insomnia.png">
 </p>
 Utilizarei o insomnia porque é a melhor ferramenta de testes com localhost,
 tem uma boa interface e ainda para fazer uns testes com json.
