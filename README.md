@@ -18,27 +18,27 @@ dicas de como ser mais produtivos e falam de alguns recursos bem úteis.
 ## Ferramentas usadas.
 
 ### Visual studio code
-<p align="center">
+<p align="right">
   <img src="http://ubuntuhandbook.org/wp-content/uploads/2017/05/vscode-icon245.png">
 </p>
 Estarei usando o vs code pois é um dos melhores apps para desenvolver as 
 aplicações de códigos e tudo mais.
 
 ### Insomnia   
-<p align="center">
+<p align="right">
   <img src="_imagens/insomnia.png">
 </p>
 Utilizarei o insomnia porque é a melhor ferramenta de testes com localhost,
 tem uma boa interface e ainda para fazer uns testes com json.
 
 ### Node 
- <p align="center">
+ <p align="right">
   <img src="_imagens/node.png">
 </p>
 O node eu vou usar para fazer o javascript rodar no meu pc .
 
 ### DevDocs
-<p align="center">
+<p align="right">
   <img src="_imagens/devdocs.png">
 </p>
 Essa ferramenta é para quando eu quiser saber para que serve aquela linguagem
