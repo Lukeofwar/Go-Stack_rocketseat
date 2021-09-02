@@ -1,4 +1,4 @@
-# Go-Stack_rocketseat.
+# Go-Stack_rocketseat. 🚀🚀
 
 Maratona intensiva para eu melhorar minhas habilidades 
 todo  conteúdo será do bootstrap go stack 11.
