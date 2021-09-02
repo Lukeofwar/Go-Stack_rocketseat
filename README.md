@@ -1,9 +1,9 @@
-# Go-Stack_rocketseat
+# Go-Stack_rocketseat.
 
 Maratona intensiva para eu melhorar minhas habilidades 
 todo  conteúdo será do bootstrap go stack 11.
 
-### Pull request 
+### Pull request.
 
 Os pull request são bem vindos, só que lembrem-se de se sertificar se 
 realmente tem um problema.
@@ -14,6 +14,7 @@ O bootstrap da rocketseat é uma boa maneira de aprender a fazer sites modernos
 e com uma boa funcionalidade. Além de proporsionar um ótiomo ensino, eles aindam dão 
 dicas de como ser mais produtivos e falam de alguns recursos bem úteis.
 
+<<<<<<< HEAD
 ## Ferramentas usadas.
 
 ### Visual studio code
@@ -42,5 +43,6 @@ O node eu vou usar para fazer o javascript rodar no meu pc .
 </p>
 Essa ferramenta é para quando eu quiser saber para que serve aquela linguagem
 ou como fazer aquele efeito na tela etc...
+
 
 
