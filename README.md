@@ -14,12 +14,12 @@ O bootstrap da rocketseat é uma boa maneira de aprender a fazer sites modernos
 e com uma boa funcionalidade. Além de proporsionar um ótiomo ensino, eles aindam dão 
 dicas de como ser mais produtivos e falam de alguns recursos bem úteis.
 
-<<<<<<< HEAD
+
 ## Ferramentas usadas.
 
 ### Visual studio code
 <p align="center">
-  <img src="../_imagens/imagens.png">
+  <img src="_imagens/imagens.png">
 </p>
 Estarei usando o vs code pois é um dos melhores apps para desenvolver as 
 aplicações de códigos e tudo mais.
