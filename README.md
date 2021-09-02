@@ -19,7 +19,7 @@ dicas de como ser mais produtivos e falam de alguns recursos bem úteis.
 
 ### Visual studio code
 <p align="center">
-  <img src="_imagens/imagens.png">
+  <img src="http://ubuntuhandbook.org/wp-content/uploads/2017/05/vscode-icon245.png">
 </p>
 Estarei usando o vs code pois é um dos melhores apps para desenvolver as 
 aplicações de códigos e tudo mais.
