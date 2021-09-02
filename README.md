@@ -13,3 +13,8 @@ realmente tem um problema.
 O bootstrap da rocketseat é uma boa maneira de aprender a fazer sites modernos 
 e com uma boa funcionalidade. Além de proporsionar um ótiomo ensino, eles aindam dão 
 dicas de como ser mais produtivos e falam de alguns recursos bem úteis.
+
+### Ferramentas usadas.
+
+Nesse projeto usarei o vs code, insomnia, Hiper, node e o último e 
+não menos importante devdocs
