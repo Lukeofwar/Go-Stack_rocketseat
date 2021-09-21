@@ -1,5 +1,7 @@
 import React from 'react';
 import { render } from 'react-dom';
 
+import App from './App';
+ 
 // JSX: html demtro do javaScript ( javascript xml )
-render(<h1>Hello world</h1>, document.getElementById('app'));
+render(<App />, document.getElementById('app'));        
