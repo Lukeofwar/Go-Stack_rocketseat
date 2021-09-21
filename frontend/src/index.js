@@ -1,3 +1,5 @@
-import {soma} from './soma';
+import React from 'react';
+import { render } from 'react-dom';
 
-console.log(soma(1, 10002));
+// JSX: html demtro do javaScript ( javascript xml )
+render(<h1>Hello world</h1>, document.getElementById('app'));
