@@ -3,6 +3,8 @@ import React from 'react';
 import Header from './components/Header'
 
 function App() {
+    const project = ['Desenvolvimentode app', 'Front-end web'];
+       
      return (
           <>      
        <Header title="Homepage" >
